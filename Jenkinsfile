@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Build/Print Message') {
       steps {
-        echo 'Branch indexing'
+        echo 'Hi World'
       }
     }
 
